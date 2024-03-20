@@ -1,7 +1,9 @@
 <div align="center">
  
  # <a href="https://www.linkedin.com/in/samuel-urbina-b126402a3/">SamUrbina The Nunutria</a> :otter:
+ 
  Repositorio Nuevo
+
  <a href="https://twitter.com/nunutria_dev">
   <img align="center" alt="Nunutria Twitter" width="50px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
 </a>
@@ -27,13 +29,7 @@ Nunutria es un proyecto dedicada a la capacitación y enseñanza de tecnologías
 ![SamUrbina GitHub stats](https://github-readme-stats.vercel.app/api?username=nunutria&show_icons=true&theme=gotham)
 
 ##  Me puedes encontrar en :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@nunutria-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nunutria_dev)](https://twitter.com/nunutria_dev)
-
-[![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-urbina-b126402a3/)](https://www.linkedin.com/in/ashwanisng/) 
-
-[![Gmail Badge](https://img.shields.io/badge/-nunutriadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nunutriadev@gmail.com)](mailto:nunutriadev@gmail.com) 
-
-[![Instagram Badge](https://img.shields.io/badge/-@nunutria.dev-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/nunutria.dev/)](https://www.instagram.com/nunutria.dev/)
+[![Twitter Badge](https://img.shields.io/badge/-@nunutria-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nunutria_dev)](https://twitter.com/nunutria_dev)[![Linkedin Badge](https://img.shields.io/badge/-SamUrbina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-urbina-b126402a3/)](https://www.linkedin.com/in/ashwanisng/)[![Gmail Badge](https://img.shields.io/badge/-nunutriadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nunutriadev@gmail.com)](mailto:nunutriadev@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-@nunutria.dev-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/nunutria.dev/)(https://www.instagram.com/nunutria.dev/)
 
 <p> 
   Visitor count<br>
