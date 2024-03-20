@@ -22,7 +22,7 @@
 Nunutria es la mejor opción para quienes buscan una formación tecnológica.
 
 ## Acerca de :sunglasses:
-Nunutria es un proyecto dedicada a la capacitación y enseñanza de tecnologías, brindando soluciones innovadoras y adaptadas a las necesidades específicas de instituciones educativas, empresas y organizaciones.
+Nunutria es un proyecto dedicado a la capacitación y enseñanza de tecnologías, brindando soluciones innovadoras y adaptadas a las necesidades específicas de instituciones educativas, empresas y organizaciones.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunutria&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
